@@ -1,0 +1,14 @@
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.AssemblyInfo.cs
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.csproj.CoreCompileInputs.cache
+c:\Users\re042534\DIO.Series\bin\Debug\net8.0\DIO.Series.exe
+C:\Users\re042534\DIO.Series\bin\Debug\net8.0\DIO.Series.deps.json
+C:\Users\re042534\DIO.Series\bin\Debug\net8.0\DIO.Series.runtimeconfig.json
+c:\Users\re042534\DIO.Series\bin\Debug\net8.0\DIO.Series.dll
+c:\Users\re042534\DIO.Series\bin\Debug\net8.0\DIO.Series.pdb
+c:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.dll
+c:\Users\re042534\DIO.Series\obj\Debug\net8.0\refint\DIO.Series.dll
+c:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.pdb
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\DIO.Series.genruntimeconfig.cache
+C:\Users\re042534\DIO.Series\obj\Debug\net8.0\ref\DIO.Series.dll
