@@ -23,18 +23,23 @@ public class Serie : EntidadeBase
     {
         string retorno = "";
         retorno += "Gênero: " + this.Genero + Environment.NewLine;
-        retorno += "Titulo: " + this.Genero + Environment.NewLine;
-        retorno += "Descricao: " + this.Genero + Environment.NewLine;
-        retorno += "Ano de inicio: " + this.Genero + Environment.NewLine;
+        retorno += "Titulo: " + this.Titulo + Environment.NewLine;
+        retorno += "Descricao: " + this.Descricao + Environment.NewLine;
+        retorno += "Ano de inicio: " + this.Ano + Environment.NewLine;
+        retorno += "Excluido: " + this.Excluido;
         return retorno;
     }
-    public string retornaTitutlo()
+    public string retornaTitulo()
     {
         return this.Titulo;
     }
     public int retornaId()
     {
         return this.Id;
+    }
+    public bool retornaExcluido()
+    {
+        return this.Excluido;
     }
     public void Excluir()
     {
